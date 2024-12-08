@@ -1,0 +1,49 @@
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\Personel Yönetim Sistemi.dll.config
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\Personel Yönetim Sistemi.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\Personel Yönetim Sistemi.pdb
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\csc.exe
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\csc.exe.config
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\csc.rsp
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\csi.exe
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\csi.exe.config
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\csi.rsp
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\vbc.exe
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\vbc.exe.config
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\vbc.rsp
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\obj\Debug\Personel Yönetim Sistemi.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\obj\Debug\Personel Yönetim Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\obj\Debug\Personel.E39D94E5.Up2Date
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\obj\Debug\Personel Yönetim Sistemi.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\obj\Debug\Personel Yönetim Sistemi.pdb
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Buffers.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Memory.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Reactive.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Reactive.Windows.Forms.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Reactive.xml
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Reactive.Windows.Forms.xml
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\batuh\source\repos\Personel Yönetim Sistemi\Personel Yönetim Sistemi\bin\System.Threading.Tasks.Extensions.xml
